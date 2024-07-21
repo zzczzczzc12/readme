@@ -28,6 +28,7 @@ This project implements a VB_estimation algorithm for estimating the probability
 -scipy<br>
 -pandas<br>
 -matplotlib<br>
+-fire<br>
 
 ### You can install these libraries using the following command:<br>
 ```python
